@@ -16,21 +16,30 @@ BMI is a measurement of a person's leanness or corpulence based on their height 
 
 ## Risks associated with being overweight
 Stroke
+
 Gallbladder disease
+
 Low quality of life
+
 Body pains and difficulty with certain physical functions
+
 High blood pressure
+
 Generally, an increased risk of mortality compared to those with a healthy BMI
+
 Sleep apnea and breathing problems
+
 Mental illnesses such as clinical depression, anxiety, and others
 
 
 ## Risks associated with being underweight
 Malnutrition, vitamin deficiencies, anemia (lowered ability to carry blood vessels)
-A decrease in immune function
-Potential complications as a result of surgery
-Growth and development issues, particularly in children and teenagers
 
+A decrease in immune function
+
+Potential complications as a result of surgery
+
+Growth and development issues, particularly in children and teenagers
 
 ## Limitations of BMI
 Although BMI is a widely used and useful indicator of healthy body weight, it does have its limitations. BMI is only an estimate that cannot take body composition into account. Due to a wide variety of body types as well as distribution of muscle, bone mass, and fat, BMI should be considered along with other measurements rather than being used as the sole method for determining a person's healthy body weight.
